@@ -1,5 +1,4 @@
 #!/bin/sh
-#2017/05/01 by kenney
 
 eval `dbus export kn_`
 KSROOT="/koolshare"
