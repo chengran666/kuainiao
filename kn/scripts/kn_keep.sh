@@ -1,6 +1,4 @@
 #!/bin/sh
-#2017/05/01 by kenney
-#version 0.4
 
 KSROOT="/koolshare"
 source $KSROOT/scripts/base.sh
